@@ -42,8 +42,7 @@ A secure and scalable full-stack E-Commerce application built using **Spring Boo
 
 ## 📁 Project Structure
 
-```
-
+''''
 eCommerce/
 │
 ├── backend/
@@ -65,7 +64,7 @@ eCommerce/
 │
 └── README.md
 
-````
+''''
 
 ---
 
