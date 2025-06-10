@@ -2,10 +2,6 @@
 ```markdown
 # 🛍️ E-Commerce Web Application
 
-![Java](https://img.shields.io/badge/Backend-Java%20Spring%20Boot-blue)
-![React](https://img.shields.io/badge/Frontend-React-orange)
-![Database](https://img.shields.io/badge/Database-MySQL%20%7C%20PostgreSQL-green)
-![License](https://img.shields.io/badge/License-MIT-brightgreen)
 
 A secure and scalable full-stack E-Commerce application built using **Spring Boot** and **React**, featuring modern design, robust APIs, and Stripe payment integration.
 
