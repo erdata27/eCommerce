@@ -1,8 +1,3 @@
-Great! You’ve uploaded an `eCommerce.zip` file — I'll generate a professional-looking `README.md` for your **E-Commerce Web Application** project, including relevant sections and icons using [Shields.io](https://shields.io) badges.
-
----
-
-### 🛒 `README.md` for E-Commerce Web Application
 
 ```markdown
 # 🛍️ E-Commerce Web Application
